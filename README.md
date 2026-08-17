@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
