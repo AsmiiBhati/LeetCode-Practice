@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
