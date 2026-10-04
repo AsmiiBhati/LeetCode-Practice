@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3813-vowel-consonant-score](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3813-vowel-consonant-score) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [3813-vowel-consonant-score](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3813-vowel-consonant-score) |
 ## Divide and Conquer
 |  |
 | ------- |
