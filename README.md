@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
