@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -75,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
