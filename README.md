@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
