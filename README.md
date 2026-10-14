@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/0877-stone-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
