@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-vowel-consonant-score](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3813-vowel-consonant-score) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AsmiiBhati/LeetCode-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
